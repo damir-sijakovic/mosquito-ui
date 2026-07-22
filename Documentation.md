@@ -773,5 +773,6 @@ void     msq_set_color(MsqCtx*, MsqColorSlot slot, MsqColor c);
 ```
 
 ---
+## License
 
-*0BSD / public-domain-equivalent. Do whatever you want.*
+MIT / DAMIR SIJAKOVIC (C) 2026
